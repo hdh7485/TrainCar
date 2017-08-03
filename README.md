@@ -2,6 +2,6 @@
 
 - Dependency Modules
   - TensorFlow
-      https://www.tensorflow.org/
+      - https://www.tensorflow.org/
   - icrawler
-      https://pypi.python.org/pypi/icrawler
+      - https://pypi.python.org/pypi/icrawler
