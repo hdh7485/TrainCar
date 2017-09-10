@@ -7,7 +7,7 @@ def google_image_crawl(directory='lena', keyword='lena', max_num=500):
                          date_min=None, date_max=None,
                          min_size=(200,200), max_size=None)
 
-google_image_crawl(directory='audi_q7', keyword='audi q7') 
-google_image_crawl(directory='hyundai_porter', keyword='hyundai porter') 
-google_image_crawl(directory='tesla_model_x', keyword='tesla model X') 
-google_image_crawl(directory='kia_stinger', keyword='kia stinger') 
+google_image_crawl(directory='audi_q7', keyword='audi q7', max_num=100)
+#google_image_crawl(directory='hyundai_porter', keyword='hyundai porter', max_num=200)
+#google_image_crawl(directory='tesla_model_x', keyword='tesla model X', max_num=200)
+google_image_crawl(directory='kia_stinger', keyword='kia stinger', max_num=100)
